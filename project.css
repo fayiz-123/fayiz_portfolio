@@ -1,0 +1,301 @@
+body{
+    background-color:rgb(231, 231, 191);
+    width: 1500px;
+}
+ul{
+    list-style-type: none ;
+    float:right;
+    margin-top: -50px;
+    margin-right: 50px;
+    
+}
+
+
+li{
+    float: left;
+    padding: 20px;
+
+}
+.hello{
+    text-indent: 250px;
+    color: darkblue;
+    margin-top: 250px;
+    font-family: poppins;
+    letter-spacing: 1px;
+    font-size: 50px;
+}
+.hey{
+    text-indent: 250px;
+    color: darkblue;
+    font-family: poppins;
+    font-size: 40px;
+
+
+}
+.base{
+    color: darkblue;
+    text-indent: 250px;
+    font-size: 25px;
+}
+button{
+    margin-left: 250px;
+    font-size:20px;
+    background-color: rgb(211, 211, 63);
+    
+}
+.btn{
+    cursor: pointer;
+    
+
+}
+.btn:hover{
+    background-color:  rgb(187, 187, 4);
+}
+.brands{
+    margin-right: 955px;
+    padding-top: -30px;
+    margin-top: -130px;
+    height: 80px;
+
+
+}
+.fa-brands{
+
+    font-size: 28px;
+    padding: 0px;
+    
+    
+}
+
+
+
+img{
+    height: 1200px;
+    width: 1700px;
+    margin-left: 350px;
+    margin-top: -1000px;
+    
+    
+}
+.about{
+    text-indent:250px ;
+    size: 30px;
+    color: rgb(200, 200, 86);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    letter-spacing:4px ;
+    padding-top: 100px;
+    width: -30px;
+    
+}
+.aboutt{
+    height: 440px;
+    padding-bottom: 200px;
+    font-size: large;
+
+}
+p{
+    margin-left: 250px;
+    font-size: larger;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    
+    
+}
+.edu{
+     text-indent: 250px;
+     size: 30px;
+     color: rgb(200, 200, 86);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    letter-spacing:4px ;
+    margin-bottom: 50px;
+    width: -30px;
+
+}
+h4{
+    margin-left: 250px;
+}
+.skill{
+    text-indent: 250px;
+     size: 30px;
+     color: rgb(200, 200, 86);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    letter-spacing:4px;
+    height: 30px;
+    width: -30px;
+
+}
+.div{
+    margin-top: -100px;
+}
+.skill{
+    margin-top: 120px;
+    height: 20px;
+}
+.html{
+    padding-top: 20px;
+    height: 70px;
+    width: 70px;
+    margin-left: 250px;
+    
+}
+.java{
+    padding-top: 50px;
+    height: 70px;
+    width: 130px;
+    margin-left: 45px;
+    margin-top: 10px;
+    
+
+}
+.css{
+    padding-top: 50px;
+    height: 70px;
+    width: 130px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+.mongo{
+    padding-top: 50px;
+    height: 100px;
+    width: 130px;
+    margin-left: 85px;
+    margin-top: 10px; 
+}
+.git{
+    padding-top: 50px;
+    height: 80px;
+    width: 80px;
+    margin-left: 245px;
+    margin-top: 10px;
+}
+.boot{
+    padding-top: 50px;
+    height: 80px;
+    width: 80px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.node{
+    padding-top: 50px;
+    height: 80px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+}
+.figma{
+    padding-top: 50px;
+    height: 80px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+}
+.cp{
+    padding-top: 50px;
+    height: 80px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+}
+.ang{
+    padding-top: 50px;
+    height: 80px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+}
+.sql{
+    padding-top: 50px;
+    height: 80px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.typ{
+    padding-top: 50px;
+    height: 80px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.contact{
+    text-indent: 250px;
+     size: 30px;
+     color: rgb(200, 200, 86);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    letter-spacing:4px ;
+    margin-bottom: 50px;
+    width: -30px;
+
+}
+.con{
+    padding-top: 100px;
+}
+.let{
+    text-indent: 250px;
+    color: darkblue;
+    font-family: poppins;
+    font-size: 40px;
+    padding-top: 50px;
+    
+
+}
+.fa-envelope{
+    margin-left: 280px;
+    margin-top: 40px;
+    font-size: 40px;
+}
+.fa-phone{
+    margin-left: 284px;
+    
+}
+.form{
+    margin-left: 800px;
+    height: 350px;
+    width: 50px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    margin-top: -150px;
+    size: 40px;
+    font-size: 20px;
+
+    
+    
+    
+    
+}
+input,textarea{
+    height: 30px;
+    width: 500px;
+    background-color: grey;
+
+
+}
+.mess{
+    height: 90px;
+}
+.but{
+    width: 500px;
+    height: 60px;
+    margin-left: 5px;
+    margin-top: 30px;
+    background-color: blue;
+    color: white;
+}
+.end{
+    margin-left: 330px;
+    margin-top: -117px;
+    
+}
+.num{
+    margin-left: 320px;
+    padding: 15px;
+}
